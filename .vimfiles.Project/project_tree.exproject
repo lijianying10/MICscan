@@ -1,0 +1,18 @@
+file filter = c,C,c++,cc,cp,cpp,cxx,h,H,h++,hh,hp,hpp,hxx,inl,ipp,cs,js,as,java,hlsl,vsh,psh,fx,fxh,cg,shd,glsl,py,pyw,pyx,pxd,lua,wlua,vim,uc,m,wiki,ini,cfg,mak,mk,Makefile,makefile,sh,SH,bsh,bash,ksh,zsh,bat,log,err,exe,qrc,pro,pri,i,swg,opt,md,
+dir filter = 
+
+-[F]MICscan {
+ |-[F]modules {
+ | |-[p]data-store.py
+ | |-[p]data-visualization.py
+ | |-[p]option-reader.py
+ | |-[p]performance.py }
+ |
+ |-[F]test {
+ | |-[o]default.opt }
+ |
+ |-[s]quick_gen_project_Project_autogen.sh
+ |-[m]README.md
+ |-[p]scaner.py }
+
+
